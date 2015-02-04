@@ -1,4 +1,5 @@
 This branch comes from greggagne
+<<<<<<< HEAD
 
 I am proposing some pretty big changes, but they
 should probably be handled through a pull request.
@@ -6,3 +7,5 @@ should probably be handled through a pull request.
 2/3/15
 
 OK, forgot the PULL request. Here it is.
+=======
+>>>>>>> parent of 60dbad6... Changes to branch-greggagne.txt
